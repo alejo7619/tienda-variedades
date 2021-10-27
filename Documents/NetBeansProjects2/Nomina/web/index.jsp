@@ -10,7 +10,7 @@
     </head>
     <body>
         
-     
+        <h1>BODEGAS SAN CARLOS</h1>
         
         
         <p class="titulo">Nomina Empleados</p>
@@ -26,10 +26,11 @@
             <input type="text" name="Horas Festivas"> 
             <input type="text" name="Dias No Laborados"> 
             <input type="text" name="Parafiscales"> 
+             <input type="text" name="imprimir">
             
             <input type="Submit" name="btn" value="Resultado"> 
             
-            
+           
             
             
         </form>
